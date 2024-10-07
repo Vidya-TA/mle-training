@@ -1,0 +1,1200 @@
+Script started on 2024-09-13 13:14:14+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="76" LINES="41"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ pwd
+[?2004l/home/vidya_y
+[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ cd /mnt/c/users/vidya.t=[K[Kyedurumane
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ pwd
+[?2004l/mnt/c/users/vidya.yedurumane
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ ls
+[?2004l [0m[34;42mAppData[0m
+[01;36m'Application Data'[0m
+ [34;42mContacts[0m
+ [01;36mCookies[0m
+ [34;42mDesktop[0m
+ [34;42mDocuments[0m
+ [34;42mDownloads[0m
+ [34;42mFavorites[0m
+ [34;42mIntelGraphicsProfiles[0m
+ [34;42mLinks[0m
+[01;36m'Local Settings'[0m
+ [34;42mMusic[0m
+[01;36m'My Documents'[0m
+ [01;32mNTUSER.DAT[0m
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf[0m
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms[0m[K
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms[0m[K
+ [01;36mNetHood[0m
+ [34;42mOneDrive[0m
+ [34;42mPictures[0m
+ [34;42mPostman[0m
+ [01;36mPrintHood[0m
+[34;42m'Python Touch Point sessions'[0m
+ [01;36mRecent[0m
+[34;42m'Saved Games'[0m
+ [34;42mSearches[0m
+ [01;36mSendTo[0m
+[01;36m'Start Menu'[0m
+ [01;36mTemplates[0m
+ [34;42mVideos[0m
+ [34;42meclipse[0m
+ [34;42meclipse-workspace[0m
+ [01;32mntuser.dat.LOG1[0m
+ [01;32mntuser.dat.LOG2[0m
+ [01;32mntuser.ini[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ ls _[K-F
+[?2004l [0m[34;42mAppData[0m/
+[01;36m'Application Data'[0m@
+ [34;42mContacts[0m/
+ [01;36mCookies[0m@
+ [34;42mDesktop[0m/
+ [34;42mDocuments[0m/
+ [34;42mDownloads[0m/
+ [34;42mFavorites[0m/
+ [34;42mIntelGraphicsProfiles[0m/
+ [34;42mLinks[0m/
+[01;36m'Local Settings'[0m@
+ [34;42mMusic[0m/
+[01;36m'My Documents'[0m@
+ [01;32mNTUSER.DAT[0m*
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf[0m*
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms[0m[K*
+ [01;32mNTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms[0m[K*
+ [01;36mNetHood[0m@
+ [34;42mOneDrive[0m/
+ [34;42mPictures[0m/
+ [34;42mPostman[0m/
+ [01;36mPrintHood[0m@
+[34;42m'Python Touch Point sessions'[0m/
+ [01;36mRecent[0m@
+[34;42m'Saved Games'[0m/
+ [34;42mSearches[0m/
+ [01;36mSendTo[0m@
+[01;36m'Start Menu'[0m@
+ [01;36mTemplates[0m@
+ [34;42mVideos[0m/
+ [34;42meclipse[0m/
+ [34;42meclipse-workspace[0m/
+ [01;32mntuser.dat.LOG1[0m*
+ [01;32mntuser.dat.LOG2[0m*
+ [01;32mntuser.ini[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ ls _[K-F Desktop
+[?2004l[0m[01;32m'Eclipse IDE for Java Developers - 2024-03.lnk'[0m*   [01;32mdesktop.ini[0m*
+[01;32m'Vidya (Person 1) - Chrome.lnk'[0m*                   [34;42mshell-lesson-data[0m/
+ [01;32mZoom.lnk[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ ls _[K-F Desktop/shell-lesson -data
+[?2004l[0m[34;42mexercise-data[0m/  [34;42mnorth-pacific-gyre[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane[00m$ cd Desktop
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop[00m$ cd shell-lesson-da ta
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd exercise-data
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ pwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ ls _F[K[K-F
+[?2004l[0m[34;42malkanes[0m/  [34;42manimal-counts[0m/  [34;42mcreatures[0m/  [01;32mnumbers.txt[0m*  [34;42mproject[0m/  [34;42mwriting[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd shell-lesson-data[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  pwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls _[K-F -a
+[?2004l[0m[34;42m.[0m/  [34;42m..[0m/  [34;42mexercise-data[0m/  [34;42mnorth-pacific-gyre[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd
+[?2004l[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ pwd
+[?2004l/home/vidya_y
+[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ cd /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson- data/exercise-data
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ pwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd [7m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  pwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls _[K-F
+[?2004l[0m[34;42mexercise-data[0m/  [34;42mnorth-pacific-gyre[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd ~
+[?2004l[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ pwd
+[?2004l/home/vidya_y
+[?2004h]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ cd [7m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-[27m[7md[27m[7mata[27m[A]0;vidya_y@TIGER03614: ~[01;32mvidya_y@TIGER03614[00m:[01;34m~[00m$ [C[C[C/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd exercise-data/creatures
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd -
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd -
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ ls [K[K[Kcd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls -s exercise-data
+[?2004ltotal 0
+0 [0m[34;42malkanes[0m        0 [34;42mcreatures[0m    0 [34;42mproject[0m
+0 [34;42manimal-counts[0m  0 [01;32mnumbers.txt[0m  0 [34;42mwriting[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls -S exercise-data
+[?2004l[0m[34;42malkanes[0m  [34;42manimal-counts[0m  [34;42mcreatures[0m  [34;42mproject[0m  [34;42mwriting[0m  [01;32mnumbers.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls -F ?[K/
+[?2004l[0m[01;36mbin[0m@   [01;34metc[0m/   [01;36mlib[0m@    [01;36mlibx32[0m@      [01;34mmnt[0m/   [01;34mroot[0m/  [01;34msnap[0m/  [30;42mtmp[0m/
+[01;34mboot[0m/  [01;34mhome[0m/  [01;36mlib32[0m@  [01;34mlost+found[0m/  [01;34mopt[0m/   [01;34mrun[0m/   [01;34msrv[0m/   [01;34musr[0m/
+[01;34mdev[0m/   [01;32minit[0m*  [01;36mlib64[0m@  [01;34mmedia[0m/       [01;34mproc[0m/  [01;36msbin[0m@  [01;34msys[0m/   [01;34mvar[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls north-pacid[Kfif[Kc-gyre/
+[?2004l[0m[01;32mNENE01729A.txt[0m  [01;32mNENE01812A.txt[0m  [01;32mNENE01978B.txt[0m  [01;32mNENE02043A.txt[0m
+[01;32mNENE01729B.txt[0m  [01;32mNENE01843A.txt[0m  [01;32mNENE02018B.txt[0m  [01;32mNENE02043B.txt[0m
+[01;32mNENE01736A.txt[0m  [01;32mNENE01843B.txt[0m  [01;32mNENE02040A.txt[0m  [01;32mgoodiff.sh[0m
+[01;32mNENE01751A.txt[0m  [01;32mNENE01971Z.txt[0m  [01;32mNENE02040B.txt[0m  [01;32mgoostats.sh[0m
+[01;32mNENE01751B.txt[0m  [01;32mNENE01978A.txt[0m  [01;32mNENE02040Z.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  ls north-pacific-gyre/goo
+goodiff.sh   goostats.sh  
+]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$ ls north-pacific-gyre/goo[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd exercise-data/writing
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ mkdir thesis
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls _[K-F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [34;42mthesis[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F thesis
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ mkdir -p ../project/data ../project/results
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -FR ../project
+[?2004l../project:
+[0m[34;42mdata[0m/  [34;42mresults[0m/
+
+../project/data:
+
+../project/results:
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd thesis
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ nano draft.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      draft.txt                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2dI[?25l[?12l[?25ht[?25l[?12l[?25h'[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hn[?25l[?12l[?25ho[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25h"[?25l[?12l[?25hp[?25l[?12l[?25hu[?25l[?12l[?25hb[?25l[?12l[?25hl[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[39d[K[?12l[?25h[2;20Hr[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25hp[?25l[?12l[?25he[?25l[?12l[?25hr[?25l[?12l[?25hv[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h"[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hy[?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25h,[?25l[3d[?12l[?25h[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h'[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25h"[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25ha[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25hr[?25l[?12l[?25hi[?25l[?12l[?25hv[?25l[?12l[?25he[?25l[?12l[?25h"[?25l[?12l[?25h.[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: draft.txt                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 2 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[3;25H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+[?2004l[0m[01;32mdraft.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ touch my_file.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ rm my_file.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ cd [7m/mnt/c/users/vidya.yedurumane/Desktop/shell-[27m[7ml[27m[7messon-data[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv thesis [K/draft.txt thesis/quotes.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls ths[Kesis
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv thesis/quotes.txt
+[?2004lmv: missing destination file operand after 'thesis/quotes.txt'
+Try 'mv --help' for more information.
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv thesis/quotes.txt .
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis/quotes.txt
+[?2004lls: cannot access 'thesis/quotes.txt': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls quotes.txt
+[?2004l[0m[01;32mquotes.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [01;32mquotes.txt[0m*  [34;42mthesis[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F ana[K[K[K[K[K[K[K[K[Kcp quotes.txt thesis/quotations.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls quotes.txt thesis/quotations.txt
+[?2004l[0m[01;32mquotes.txt[0m  [01;32mthesis/quotations.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cp -r thesis thesis_backup
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis thesis_backy[Kup
+[?2004lthesis:
+[0m[01;32mquotations.txt[0m
+
+thesis_backup:
+[01;32mquotations.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cp thesis thesis_backup
+[?2004lcp: -r not specified; omitting directory 'thesis'
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ rm quotes.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls quotes.txt
+[?2004lls: cannot access 'quotes.txt': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ rm thesis
+[?2004lrm: cannot remove 'thesis': Is a directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ rm -r thesis
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ pwd[K[K[Kls -F
+[?2004l[0m[34;42malkanes[0m/  [34;42manimal-counts[0m/  [34;42mcreatures[0m/  [01;32mnumbers.txt[0m*  [34;42mproject[0m/  [34;42mwriting[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ mkdir backup
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ [7mcp creatures/minotaur.dat creatures/unicorn.dat backup/[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp creatures/minotaur.dat creatures/unicorn.dat backup/
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd creatures
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ ls -F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32mminotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ [7mcp minotaur.dat unicorn.dat basilisk.dat[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccp minotaur.dat unicorn.dat basilisk.dat
+[?2004lcp: target 'basilisk.dat' is not a directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd alkanes
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls *.pdb
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls p*.pdb
+[?2004l[0m[01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls ?ethane.pdb
+[?2004l[0m[01;32mmethane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls *ethane.pdb
+[?2004l[0m[01;32methane.pdb[0m  [01;32mmethane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ???[K[K[Kls ???ab[Kne.pdb
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32moctane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc cubane.pdb
+[?2004l  20  156 1158 cubane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc *.pdb
+[?2004l  20  156 1158 cubane.pdb
+  12   84  622 ethane.pdb
+   9   57  422 methane.pdb
+  30  246 1828 octane.pdb
+  21  165 1226 pentane.pdb
+  15  111  825 propane.pdb
+ 107  819 6081 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc -l *.pdb > lengths.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls lengths.txt
+[?2004l[0m[01;32mlengths.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat lengths.txt
+[?2004l  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd -
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt > sorted-lengths.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ head -n 1 sorted-lengths.y[Ktxt
+[?2004l   9 methane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo The echo command prints text
+[?2004lThe echo command prints text
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo hello > testfile01.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ exh[K[Kcho hello > testfile01.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo hello >> testfile02.ts[Kxt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo hello >> textfile02.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat ts[Kestfile01.txt
+[?2004lhello
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat testfile02.txt
+[?2004lhello
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo hello>> [K >>[C[C testfile02.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat testfile02.txt
+[?2004lhello
+hello
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ echo hell[K[K[K[K[K[K[K[K[Kecho hell0[Ko>testfile01.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat testfile01.txt
+[?2004lhello
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ sort -n lengths.txt | head -n 1
+[?2004l   9 methane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc -l *.pdb | sort -n
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc -l *.pdb | sort -n | head -n 1
+[?2004l   9 methane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd animal-counts
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ cat animals.csv[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls -F
+[?2004l[0m[01;32manimals.csv[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ an[K[Kcat animals.csv
+[?2004l2012-11-05,deer,5
+2012-11-05,rabbit,22
+2012-11-05,raccoon,7
+2012-11-06,rabbit,19
+2012-11-06,deer,2
+2012-11-06,fox,4
+2012-11-07,rabbit,16
+2012-11-07,bear,1
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ cat animals.csv | head -n 5 | tail -n 3 | sort - r >final.txt
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ cat final.txt
+[?2004l2012-11-06,rabbit,19
+2012-11-06,deer,2
+2012-11-05,raccoon,7
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ cut -d , -f 2 animals.csv
+[?2004ldeer
+rabbit
+raccoon
+rabbit
+deer
+fox
+rabbit
+bear
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ [7mcut -d, -f 2 animals.csv | sort | uniq -c[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccut -d, -f 2 animals.csv | sort | uniq -c
+[?2004l      1 bear
+      2 deer
+      1 fox
+      3 rabbit
+      1 raccoon
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/animal-counts[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd north-pacific-gyre/[K
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ wc -l *.txt
+[?2004l  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+  300 NENE01751B.txt
+  300 NENE01812A.txt
+  300 NENE01843A.txt
+  300 NENE01843B.txt
+  300 NENE01971Z.txt
+  300 NENE01978A.txt
+  300 NENE01978B.txt
+  240 NENE02018B.txt
+  300 NENE02040A.txt
+  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ wc -l *.txt | sort -n | head -n 5
+[?2004l  240 NENE02018B.txt
+  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ wc -1 [K[Kl *.txt | sort -n | tail -n 5
+[?2004l  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ ls *Z.txt
+[?2004l[0m[01;32mNENE01971Z.txt[0m  [01;32mNENE02040Z.txt[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd exercise-data/creatures
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ ls _f[K[K-F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32mminotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ $ [K[Khead -n 5 [7mbasilisk.dat*  minotaur.dat*  unicorn.dat*[27m [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pbasilisk.dat*  minotaur.dat*  unicorn.dat
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P
+[?2004l==> basilisk.dat <==
+COMMON NAME: basilisk
+CLASSIFICATION: basiliscus vulgaris
+UPDATED: 1745-05-02
+CCCCAACGAG
+GAAACAGATC
+
+==> minotaur.dat <==
+COMMON NAME: minotaur
+CLASSIFICATION: bos hominus
+UPDATED: 1765-02-17
+CCCGAAGGAC
+CGACATCTCT
+
+==> unicorn.dat <==
+COMMON NAME: unicorn
+CLASSIFICATION: equus monoceros
+UPDATED: 1738-11-24
+AGCCGGGTCG
+CTTTACCTTA
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filenae[Kme in [K[7m basilisk.dat  minotaur.dat  unicorn.[27m[7md[27m[7mat[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C basilisk.dat  minotaur.dat  unicorn.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> [K> [K> [K> 
+Display all 3791 possibilities? (y or n)
+AdvancedIMC.dll
+AgentWmi.mof
+AgentWmiUninstall.mof
+AttestationWmiProvider.mof
+AttestationWmiProvider_Uninstall.mof
+AuditRsop.mof
+BthMtpEnum.mof
+CIWmi.mof
+CertAuthIMC.dll
+Certificate.format.ps1xml
+DMWmiBridgeProv.dll
+DMWmiBridgeProv.mof
+DMWmiBridgeProv1.dll
+DMWmiBridgeProv1.mof
+DMWmiBridgeProv1_Uninstall.mof
+DMWmiBridgeProv_Uninstall.mof
+Diagnostics.Format.ps1xml
+DotNetTypes.format.ps1xml
+DscCore.mof
+DscCoreConfProv.mof
+DscTimer.mof
+Dscpspluginwkr.dll
+DtcInstall.log
+EPCheck.dll
+EmbeddedLockdownWmi.dll
+Event.Format.ps1xml
+EventTracingManagement.dll
+EventTracingManagement.mof
+FileSystem.format.ps1xml
+FolderRedirectionWMIProvider.mof
+FunDisc.mof
+GPCSEWrapperCsp.dll
+GameBarElevatedFT_Alias.exe
+GdiPlus.dll
+GenValObj.exe
+Geocommon.dll
+Geolocation.dll
+GetHelp.exe
+GraphicsCapture.dll
+GraphicsPerfSvc.dll
+--More--[K> dddddddddd[K[K[K[K[K[K[K[K[K[Kdo
+[?2004lbash: syntax error near unexpected token `do'
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename in basilisk.dat minotaur [K.dat unicorn.da t
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $filename
+[?2004l[?2004h> head -n 2 $filename | tail -n 1
+[?2004l[?2004h> done
+[?2004lbasilisk.dat
+CLASSIFICATION: basiliscus vulgaris
+minotaur.dat
+CLASSIFICATION: bos hominus
+unicorn.dat
+CLASSIFICATION: equus monoceros
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd ../alkanes
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls *.pdb
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ for datafile in *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h> ls *.pdb
+[?2004l[?2004h> done
+[?2004l[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[0m[01;32mcubane.pdb[0m  [01;32methane.pdb[0m  [01;32mmethane.pdb[0m  [01;32moctane.pdb[0m  [01;32mpentane.pdb[0m  [01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ for datafile in*[K *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h> ls $datafile
+[?2004l[?2004h> done
+[?2004l[0m[01;32mcubane.pdb[0m
+[0m[01;32methane.pdb[0m
+[0m[01;32mmethane.pdb[0m
+[0m[01;32moctane.pdb[0m
+[0m[01;32mpentane.pdb[0m
+[0m[01;32mpropane.pdb[0m
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ for [K[K[K[Kfor alkanes in *.pdb
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $alkanes
+[?2004l[?2004h> cat $alkanes > alkanes.pdb
+[?2004l[?2004h> done
+[?2004lcubane.pdb
+ethane.pdb
+methane.pdb
+octane.pdb
+pentane.pdb
+propane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ a[Kcat alkanes.pdb
+[?2004lCOMPND      PROPANE
+AUTHOR      DAVE WOODCOCK  95  12 18
+ATOM      1  C           1       1.241   0.444   0.349  1.00  0.00
+ATOM      2  C           1      -0.011  -0.441   0.333  1.00  0.00
+ATOM      3  C           1      -1.176   0.296  -0.332  1.00  0.00
+ATOM      4  H           1       1.516   0.699  -0.675  1.00  0.00
+ATOM      5  H           1       2.058  -0.099   0.827  1.00  0.00
+ATOM      6  H           1       1.035   1.354   0.913  1.00  0.00
+ATOM      7  H           1      -0.283  -0.691   1.359  1.00  0.00
+ATOM      8  H           1       0.204  -1.354  -0.225  1.00  0.00
+ATOM      9  H           1      -0.914   0.551  -1.359  1.00  0.00
+ATOM     10  H           1      -1.396   1.211   0.219  1.00  0.00
+ATOM     11  H           1      -2.058  -0.345  -0.332  1.00  0.00
+TER      12              1
+END
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cd ../creatures
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename in *.d[Kat[K[Kdat
+[?2004l[?2004h> do
+[?2004l[?2004h> echo /////////////////[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K$filename
+[?2004l[?2004h> head -n 100 $filename | tail -n 20
+[?2004l[?2004h> done
+[?2004lbasilisk.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+minotaur.dat
+GGTTGGACCG
+AGTGAACGAA
+GCGATTGATG
+CCCAGTATTG
+GTTTCGGGTC
+CCACCAGGAA
+CAATGTTGGA
+CTTTAGCACG
+ACAGGAATCA
+ATCGTTTCGT
+AATGGTGGCA
+CTTTGGGGTT
+GCAGGCCCGC
+CTGTGCCTTC
+AACGGTCGGC
+AAATAGGACA
+GAGATTTCCT
+GCCTCAAACA
+TCGCAAGACG
+ATTTATCCGG
+unicorn.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ ls -F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32mminotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename in *.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> cp
+[?2004l[?2004h> ccc
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> 
+[?2004l[?2004h> kkk
+[?2004l[?2004h> do
+[?2004lbash: syntax error near unexpected token `do'
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename in *.dat
+[?2004l[?2004h> do
+[?2004l[?2004h> cp $filename original-$filename
+[?2004l[?2004h> done
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cp [K[K[Kcat [K[K[K[Kls -F or[K[K[K[K[K[K[K[Kls _F[K[K-F
+[?2004l[0m[01;32mbasilisk.dat[0m*  [01;32moriginal-basilisk.dat[0m*  [01;32moriginal-unicorn.dat[0m*
+[01;32mminotaur.dat[0m*  [01;32moriginal-minotaur.dat[0m*  [01;32municorn.dat[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd north-pacific-gyre/[K
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ for datafile in NENE*A.txt NENE*B.txt
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $datafile
+[?2004l[?2004h> done
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ for datafile in NENE*A.txt NENE*B.txt
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $datafile stats-$datafile
+[?2004l[?2004h> done
+[?2004lNENE01729A.txt stats-NENE01729A.txt
+NENE01736A.txt stats-NENE01736A.txt
+NENE01751A.txt stats-NENE01751A.txt
+NENE01812A.txt stats-NENE01812A.txt
+NENE01843A.txt stats-NENE01843A.txt
+NENE01978A.txt stats-NENE01978A.txt
+NENE02040A.txt stats-NENE02040A.txt
+NENE02043A.txt stats-NENE02043A.txt
+NENE01729B.txt stats-NENE01729B.txt
+NENE01751B.txt stats-NENE01751B.txt
+NENE01843B.txt stats-NENE01843B.txt
+NENE01978B.txt stats-NENE01978B.txt
+NENE02018B.txt stats-NENE02018B.txt
+NENE02040B.txt stats-NENE02040B.txt
+NENE02043B.txt stats-NENE02043B.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ history | tail -n 5
+[?2004l  264  cd ..
+  265  cd north-pacific-gyre
+  266  for datafile in NENE*A.txt NENE*B.txt; do echo $datafile; done
+  267  for datafile in NENE*A.txt NENE*B.txt; do echo $datafile stats-$datafile; done
+  268  history | tail -n 5
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ for species in cubane ethane methane
+[?2004l[?2004h> do
+[?2004l[?2004h> for temperature in 25 30 2[K37 40
+[?2004l[?2004h> do mkdir 
+[?2004l[?2004h> 
+[?2004l[?2004h> s[K$species [K-$temperatutr[K[Kre
+[?2004l[?2004h> done
+[?2004l[?2004h> done
+[?2004lmkdir: missing operand
+Try 'mkdir --help' for more information.
+cubane-25: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+cubane-30: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+cubane-37: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+cubane-40: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+ethane-25: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+ethane-30: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+ethane-37: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+ethane-40: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+methane-25: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+methane-30: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+methane-37: command not found
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+methane-40: command not found
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  pw[K[Kls _[K-F
+[?2004l[0m[34;42mexercise-data[0m/  [34;42mnorth-pacific-gyre[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data[00m$  cd exercise [K-data/alkanes
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls _[K-F
+[?2004l[0m[01;32malkanes.pdb[0m*  [01;32mlengths.txt[0m*  [01;32mpentane.pdb[0m*         [01;32mtestfile01.txt[0m*
+[01;32mcubane.pdb[0m*   [01;32mmethane.pdb[0m*  [01;32mpropane.pdb[0m*         [01;32mtestfile02.txt[0m*
+[01;32methane.pdb[0m*   [01;32moctane.pdb[0m*   [01;32msorted-lengths.txt[0m*  [01;32mtextfile02.txt[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat cubane.pdb
+[?2004lCOMPND      CUBANE
+AUTHOR      DAVE WOODCOCK  95 12 06
+ATOM      1  C           1       0.789  -0.852   0.504  1.00  0.00
+ATOM      2  C           1      -0.161  -1.104  -0.624  1.00  0.00
+ATOM      3  C           1      -1.262  -0.440   0.160  1.00  0.00
+ATOM      4  C           1      -0.289  -0.202   1.284  1.00  0.00
+ATOM      5  C           1       1.203   0.513  -0.094  1.00  0.00
+ATOM      6  C           1       0.099   1.184   0.694  1.00  0.00
+ATOM      7  C           1      -0.885   0.959  -0.460  1.00  0.00
+ATOM      8  C           1       0.236   0.283  -1.269  1.00  0.00
+ATOM      9  H           1       1.410  -1.631   0.942  1.00  0.00
+ATOM     10  H           1      -0.262  -2.112  -1.024  1.00  0.00
+ATOM     11  H           1      -2.224  -0.925   0.328  1.00  0.00
+ATOM     12  H           1      -0.468  -0.501   2.315  1.00  0.00
+ATOM     13  H           1       2.224   0.892  -0.134  1.00  0.00
+ATOM     14  H           1       0.240   2.112   1.251  1.00  0.00
+ATOM     15  H           1      -1.565   1.730  -0.831  1.00  0.00
+ATOM     16  H           1       0.472   0.494  -2.315  1.00  0.00
+TER      17              1
+END
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ for species in cubane ethane methane
+[?2004l[?2004h> do
+[?2004l[?2004h> for temperature in 25 30 37 40
+[?2004l[?2004h> do
+[?2004l[?2004h> mkdir $species-$temperature
+[?2004l[?2004h> done
+[?2004l[?2004h> done
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls -F
+[?2004l[0m[01;32malkanes.pdb[0m*  [01;32mcubane.pdb[0m*  [01;32methane.pdb[0m*   [34;42mmethane-40[0m/   [01;32msorted-lengths.txt[0m*
+[34;42mcubane-25[0m/    [34;42methane-25[0m/   [01;32mlengths.txt[0m*  [01;32mmethane.pdb[0m*  [01;32mtestfile01.txt[0m*
+[34;42mcubane-30[0m/    [34;42methane-30[0m/   [34;42mmethane-25[0m/   [01;32moctane.pdb[0m*   [01;32mtestfile02.txt[0m*
+[34;42mcubane-37[0m/    [34;42methane-37[0m/   [34;42mmethane-30[0m/   [01;32mpentane.pdb[0m*  [01;32mtextfile02.txt[0m*
+[34;42mcubane-40[0m/    [34;42methane-40[0m/   [34;42mmethane-37[0m/   [01;32mpropane.pdb[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      middle.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2dh[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25h(B[0;1m[34mhead[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 1[?25l[?12l[?25h5[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h o[?25l[?12l[?25hc[?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[39d[K[?12l[?25h[2;16Hn[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hp[?25l[?12l[?25hd[?25l[?12l[?25hb[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h t[?25l[?12l[?25ha[?25l[?12l[?25hi[?25l[?12l[?25h(B[0;1m[34mtail[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 5[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;31H(B[0;7m[ Wrote 1 line ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[2;34H[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                               [39;30H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;75H[39;31H(B[0;7m[ Wrote 1 line ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[2;34H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls -F
+[?2004l[0m[01;32malkanes.pdb[0m*  [01;32mcubane.pdb[0m*  [01;32methane.pdb[0m*   [34;42mmethane-40[0m/   [01;32mpropane.pdb[0m*
+[34;42mcubane-25[0m/    [34;42methane-25[0m/   [01;32mlengths.txt[0m*  [01;32mmethane.pdb[0m*  [01;32msorted-lengths.txt[0m*
+[34;42mcubane-30[0m/    [34;42methane-30[0m/   [34;42mmethane-25[0m/   [01;32mmiddle.sh[0m*    [01;32mtestfile01.txt[0m*
+[34;42mcubane-37[0m/    [34;42methane-37[0m/   [34;42mmethane-30[0m/   [01;32moctane.pdb[0m*   [01;32mtestfile02.txt[0m*
+[34;42mcubane-40[0m/    [34;42methane-40[0m/   [34;42mmethane-37[0m/   [01;32mpentane.pdb[0m*  [01;32mtextfile02.txt[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh
+[?2004lATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;32H(B[0;7m[ Reading... ](B[m[39;31H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                      middle.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h5[?25l[?12l[?25h [?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25he[?25l[39d[K[?12l[?25h[2;19H[?25l[?12l[?25hp[?25l[?12l[?25hd[?25l[?12l[?25hb[?25l[?12l[?25h [?25l[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2;21H[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;13H[?25l[?12l[?25h[32m$[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;14H[?25l[?12l[?25h(B[0;1m[31m$1[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;15H[?25l[?12l[?25h(B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;16H[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;31H(B[0;7m[ Wrote 1 line ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[2;16H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sj[Kh octane [K.pdb
+[?2004lATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh o[Kpend[Ktane.pdb
+[?2004lATOM      9  H           1       1.324   0.350  -1.332  1.00  0.00
+ATOM     10  H           1       1.271   1.378   0.122  1.00  0.00
+ATOM     11  H           1      -0.074  -0.384   1.288  1.00  0.00
+ATOM     12  H           1      -0.048  -1.362  -0.205  1.00  0.00
+ATOM     13  H           1      -1.183   0.500  -1.412  1.00  0.00
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano middle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;32H(B[0;7m[ Reading... ](B[m[39;31H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                      middle.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 (B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[?12l[?25h[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h1[?25l[?12l[?25h5[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[39d[K[?12l[?25h[2;11H[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2;10H[1P[?25l[?12l[?25h[1P[?25l[?12l[?25h(B[0;1m[33m" "[31m$1[39m(B[m" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;10H[?25l[?12l[?25h(B[0;1m[33m$ "[31m$1[39m(B[m" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;11H[?25l[?12l[?25h(B[0;1m[33m2 "[31m$1[39m(B[m" [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;12H[?25l[?12l[?25h(B[0;1m[33m"[39m(B[m (B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m 5[2;13H[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h [?25l[?12l[?25h5[?25l[?12l[?25h[42m [49m(B[m[K[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$3[39m(B[m[?25l[?12l[?25h(B[0;1m[33m"$3"[39m(B[m[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;31H(B[0;7m[ Wrote 1 line ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[2;33H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh pentane.pdb 15 5
+[?2004lATOM      9  H           1       1.324   0.350  -1.332  1.00  0.00
+ATOM     10  H           1       1.271   1.378   0.122  1.00  0.00
+ATOM     11  H           1      -0.074  -0.384   1.288  1.00  0.00
+ATOM     12  H           1      -0.048  -1.362  -0.205  1.00  0.00
+ATOM     13  H           1      -1.183   0.500  -1.412  1.00  0.00
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash middle.sh pentane [K.pdb 20 5
+[?2004lATOM     14  H           1      -1.259   1.420   0.112  1.00  0.00
+ATOM     15  H           1      -2.608  -0.407   1.130  1.00  0.00
+ATOM     16  H           1      -2.540  -1.303  -0.404  1.00  0.00
+ATOM     17  H           1      -3.393   0.254  -0.321  1.00  0.00
+TER      18              1
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano miss[K[Kddle.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;32H(B[0;7m[ Reading... ](B[m[39;31H(B[0;7m[ Read 1 line ](B[m[H(B[0;7m  GNU nano 6.2                      middle.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d(B[0;1m[34mhead[35m -n[39m(B[m (B[0;1m[33m"$2"[39m(B[m (B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[35m -n[39m(B[m (B[0;1m[33m"$3"[39m(B[m[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m7[2;38r8[2dM[1;41r[3;1H[?12l[?25h[?25l[?12l[?25h[A[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m S[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mc[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m l[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[39d[K[?12l[?25h[2;18H[36mo[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m t[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m m[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m o[39m(B[m[?25l[?12l[?25h[36mf[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m a[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l7[3;39r8[3dM[1;41r[3;1H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m U[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36m:[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m b[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m m[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m e[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36m_[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m n[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36m_[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: middle.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 3 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[3;52H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ wc -l *.pdb | sort -n
+[?2004l   9 methane.pdb
+  12 ethane.pdb
+  15 alkanes.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 122 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano sorted.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      sorted.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2d[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m S[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m b[39m(B[m[?25l[?12l[?25h[36my[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m t[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[39d[K[?12l[?25h[2;20H[36mi[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m l[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[3d[?12l[?25h[?25l[?12l[?25h[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m U[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36m:[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m b[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m s[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m o[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36m_[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36m_[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36m_[39m(B[m[?25l[?12l[?25h[36mf[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[4d[?12l[?25h[?25l[?12l[?25hw[?25l[?12l[?25hc[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -l[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$@[39m(B[m[?25l[?12l[?25h(B[0;1m[33m"$@"[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h s[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25h(B[0;1m[34msort[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -m[39m(B[m[?25l[?12l[?25h -[K[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: sorted.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 3 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[4;21H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash sorted.sh *.pdb ../creatures/*/[K.data[K
+[?2004l    9 methane.pdb
+   12 ethane.pdb
+   15 alkanes.pdb
+   15 propane.pdb
+   20 cubane.pdb
+   21 pentane.pdb
+   30 octane.pdb
+  163 ../creatures/basilisk.dat
+  163 ../creatures/minotaur.dat
+  163 ../creatures/original-basilisk.dat
+  163 ../creatures/original-minotaur.dat
+  163 ../creatures/original-unicorn.dat
+  163 ../creatures/unicorn.dat
+ 1100 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ histoe[Kry | tail -n 5 > redo-figure-3.sh
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cat res[Kdo-figure-3.sh
+[?2004l  286  nano middle.sh
+  287  wc -l *.pdb | sort -n
+  288  nano sorted.sh
+  289  bash sorted.sh *.pdb ../creatures/*.dat
+  290  history | tail -n 5 > redo-figure-3.sh
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cd ../../north-pacific-gyre/
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ nano do-stats.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                     do-stats.sh                              [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;48H(B[0;7m*[75G(B[m[?12l[?25h[2d[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m C[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36mc[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m s[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36ms[39m(B[m[?25l[39d[K[?12l[?25h[2;15H [?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m d[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36m.[39m(B[m[?25l[3d[?12l[?25h[?25l[?12l[?25hf[?25l[?12l[?25ho[?25l[?12l[?25h[32mfor[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h d[?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h i[?25l[?12l[?25h[32min[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$@[39m(B[m[?25l[?12l[?25h(B[0;1m[33m"$@"[39m(B[m[?25l[4d[?12l[?25h[?25l[?12l[?25hd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[5d[?12l[?25h[?25l[?12l[?25he[?25l[?12l[?25hc[?25l[?12l[?25hh[?25l[?12l[?25h(B[0;1m[34mecho[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[6d[?12l[?25h[?25l[?12l[?25hb[?25l[?12l[?25ha[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h g[?25l[?12l[?25ho[?25l[?12l[?25ho[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h.[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h s[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h-[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[7d[?12l[?25h[?25l[?12l[?25hd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[?12l[?25hdon[?25l[?12l[?25h[32mdone[39m(B[m[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: do-stats.sh                                             [39;32H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;48H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 6 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[7;5H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ bash do-d[Kstst[K[Kats [K.sh NENE*A.txt NENE*B.txt
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ bash do-stats.sh NENE*A.txt NENE*B.txt | wc -l
+[?2004l15
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ../exercise-data/alkanes
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ ls -F
+[?2004l[0m[01;32malkanes.pdb[0m*  [34;42methane-30[0m/    [34;42mmethane-37[0m/   [01;32mredo-figure-3.sh[0m*
+[34;42mcubane-25[0m/    [34;42methane-37[0m/    [34;42mmethane-40[0m/   [01;32msorted-lengths.txt[0m*
+[34;42mcubane-30[0m/    [34;42methane-40[0m/    [01;32mmethane.pdb[0m*  [01;32msorted.sh[0m*
+[34;42mcubane-37[0m/    [01;32methane.pdb[0m*   [01;32mmiddle.sh[0m*    [01;32mtestfile01.txt[0m*
+[34;42mcubane-40[0m/    [01;32mlengths.txt[0m*  [01;32moctane.pdb[0m*   [01;32mtestfile02.txt[0m*
+[01;32mcubane.pdb[0m*   [34;42mmethane-25[0m/   [01;32mpentane.pdb[0m*  [01;32mtextfile02.txt[0m*
+[34;42methane-25[0m/    [34;42mmethane-30[0m/   [01;32mpropane.pdb[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ nano script.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      script.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2dh[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25h(B[0;1m[34mhead[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$2[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$1[39m(B[m[?25l[3d[?12l[?25h[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hi[?25l[?12l[?25h(B[0;1m[34mtail[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[39d[K[?12l[?25h[3;5H -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$3[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$1[39m(B[m[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: script.sh                                               [39;30H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 2 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[3;14H[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ bash script.sh ''[K*.pdb' 1 1
+[?2004l==> alkanes.pdb <==
+COMPND      PROPANE
+
+==> cubane.pdb <==
+COMPND      CUBANE
+
+==> ethane.pdb <==
+COMPND      ETHANE
+
+==> methane.pdb <==
+COMPND      METHANE
+
+==> octane.pdb <==
+COMPND      OCTANE
+
+==> pentane.pdb <==
+COMPND      PENTANE
+
+==> propane.pdb <==
+COMPND      PROPANE
+==> alkanes.pdb <==
+END
+
+==> cubane.pdb <==
+END
+
+==> ethane.pdb <==
+END
+
+==> methane.pdb <==
+END
+
+==> octane.pdb <==
+END
+
+==> pentane.pdb <==
+END
+
+==> propane.pdb <==
+END
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/alkanes[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ nano longest.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;33H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                     longest.sh                               [1;75H(B[m[40d(B[0;7m^G(B[m Help[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[40;61H(B[0;7m^T(B[m Execute[41d(B[0;7m^X(B[m Exit[41;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[1;47H(B[0;7m*[75G(B[m[?12l[?25h[2dw[?25l[?12l[?25hc[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -l[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$1[39m(B[m[?25l[?12l[?25h/[?25l[?12l[?25h*[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h.[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$2[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h s[?25l[39d[K[?12l[?25h[2;18Ho[?25l[?12l[?25hr[?25l[?12l[?25h(B[0;1m[34msort[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hi[?25l[?12l[?25h(B[0;1m[34mtail[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 2[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m|[39m(B[m[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25ha[?25l[?12l[?25h(B[0;1m[34mhead[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h (B[0;1m[34mhead(B[0m[42m [38G[49m(B[m[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h[C[?25l[?12l[?25h -[?25l[?12l[?25h(B[0;1m[35m -n[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h 1[?25l[3d[?12l[?25h[?25l[40;16H    (B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append   [58G(B[0;7mM-B(B[m Backup File[41;2H(B[0;7mC(B[m Cancel[16G    (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend        (B[0;7m^T(B[m Browse[K[39d(B[0;7mFile Name to Write: longest.sh                                              [39;31H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;47H(B[0;7m [75G(B[m[39;30H(B[0;7m[ Wrote 2 lines ](B[m[40;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[58G   (B[0;7m^T(B[m Execute[K[41;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify[?12l[?25h[3d[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ bash longest.sh shell-lesson-data/exercise-data/w[Kala[Kkanes.pdb
+[?2004lwc: 'shell-lesson-data/exercise-data/alkanes.pdb/*.': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ [K[A]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/e
+xercise-data[00m$ bash longest.sh alkanes.pdb
+[?2004lwc: 'alkanes.pdb/*.': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ bash longs=[K[Kest [K.sh al[K[K[7mshell-lesson-data/exercise-data/alkanes.pdb[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cshell-lesson-data/exercise-data/alkanes.pdb[1Ppdb pdb
+[?2004lwc: 'shell-lesson-data/exercise-data/alkanes/*.pdb': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ [7mbash longest.sh shell-lesson-data/exercise-data/writing txt[27m[C[C[C[C[C[C[Cbash longest.sh shell-lesson-data/exercise-data/writing txt
+[?2004lwc: 'shell-lesson-data/exercise-data/writing/*.txt': No such file or directory
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ pwd
+[?2004l/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ c[Kls -F alkanes
+[?2004l[0m[01;32malkanes.pdb[0m*  [34;42methane-25[0m/    [34;42mmethane-25[0m/   [01;32moctane.pdb[0m*          [01;32msorted.sh[0m*
+[34;42mcubane-25[0m/    [34;42methane-30[0m/    [34;42mmethane-30[0m/   [01;32mpentane.pdb[0m*         [01;32mtestfile01.txt[0m*
+[34;42mcubane-30[0m/    [34;42methane-37[0m/    [34;42mmethane-37[0m/   [01;32mpropane.pdb[0m*         [01;32mtestfile02.txt[0m*
+[34;42mcubane-37[0m/    [34;42methane-40[0m/    [34;42mmethane-40[0m/   [01;32mredo-figure-3.sh[0m*    [01;32mtextfile02.txt[0m*
+[34;42mcubane-40[0m/    [01;32methane.pdb[0m*   [01;32mmethane.pdb[0m*  [01;32mscript.sh[0m*
+[01;32mcubane.pdb[0m*   [01;32mlengths.txt[0m*  [01;32mmiddle.sh[0m*    [01;32msorted-lengths.txt[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ bash longest.sh [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kbash longest.sh alkanes pdb
+[?2004l  30 alkanes/octane.pdb
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ cd ../north-pacific-gyre/[K
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ ls -F
+[?2004l[0m[01;32mNENE01729A.txt[0m*  [01;32mNENE01978A.txt[0m*  [01;32mgoodiff.sh[0m*            [01;32mstats-NENE01843B.txt[0m*
+[01;32mNENE01729B.txt[0m*  [01;32mNENE01978B.txt[0m*  [01;32mgoostats.sh[0m*           [01;32mstats-NENE01978A.txt[0m*
+[01;32mNENE01736A.txt[0m*  [01;32mNENE02018B.txt[0m*  [01;32mstats-NENE01729A.txt[0m*  [01;32mstats-NENE01978B.txt[0m*
+[01;32mNENE01751A.txt[0m*  [01;32mNENE02040A.txt[0m*  [01;32mstats-NENE01729B.txt[0m*  [01;32mstats-NENE02018B.txt[0m*
+[01;32mNENE01751B.txt[0m*  [01;32mNENE02040B.txt[0m*  [01;32mstats-NENE01736A.txt[0m*  [01;32mstats-NENE02040A.txt[0m*
+[01;32mNENE01812A.txt[0m*  [01;32mNENE02040Z.txt[0m*  [01;32mstats-NENE01751A.txt[0m*  [01;32mstats-NENE02040B.txt[0m*
+[01;32mNENE01843A.txt[0m*  [01;32mNENE02043A.txt[0m*  [01;32mstats-NENE01751B.txt[0m*  [01;32mstats-NENE02043A.txt[0m*
+[01;32mNENE01843B.txt[0m*  [01;32mNENE02043B.txt[0m*  [01;32mstats-NENE01812A.txt[0m*  [01;32mstats-NENE02043B.txt[0m*
+[01;32mNENE01971Z.txt[0m*  [01;32mdo-stats.sh[0m*     [01;32mstats-NENE01843A.txt[0m*
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ nano do-errors.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;45r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[43;36H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                        do-errors.sh                                 [1;82H(B[m[44d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[45d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;52H(B[0;7m*[82G(B[m[?12l[?25h[2d[36m#[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m C[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36mc[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m s[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[43d[K[?12l[?25h[2;15H [?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m d[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h[36m f[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36ml[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l[?12l[?25h[36ms[39m(B[m[?25l[3d[?12l[?25h[?25l[?12l[?25hf[?25l[?12l[?25ho[?25l[?12l[?25h[32mfor[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h d[?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h i[?25l[?12l[?25h[32min[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h "[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$@[39m(B[m[?25l[?12l[?25h(B[0;1m[33m"$@"[39m(B[m[?25l[4d[?12l[?25h[?25l[?12l[?25hd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[5d[?12l[?25h[?25l[?12l[?25he[?25l[?12l[?25hc[?25l[?12l[?25hh[?25l[?12l[?25h(B[0;1m[34mecho[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[6d[?12l[?25h[?25l[?12l[?25hb[?25l[?12l[?25ha[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h g[?25l[?12l[?25ho[?25l[?12l[?25ho[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h.[?25l[?12l[?25hs[?25l[?12l[?25hh[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h s[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25ht[?25l[?12l[?25hs[?25l[?12l[?25h-[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$d[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mt[39m(B[m[?25l[?12l[?25h(B[0;1m[31ma[39m(B[m[?25l[?12l[?25h(B[0;1m[31mf[39m(B[m[?25l[?12l[?25h(B[0;1m[31mi[39m(B[m[?25l[?12l[?25h(B[0;1m[31ml[39m(B[m[?25l[?12l[?25h(B[0;1m[31me[39m(B[m[?25l[7d[?12l[?25h[?25l[?12l[?25hd[?25l[?12l[?25h[32mdo[39m(B[m[?25l[?12l[?25hdon[?25l[?12l[?25h[32mdone[39m(B[m[?25l[44;14H       (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[K[45;2H(B[0;7mC(B[m Cancel           (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend         (B[0;7m^T(B[m Browse[K[43d(B[0;7mFile Name to Write: do-errors.sh                                                   [43;33H(B[m[?12l[?25h[?25l [1K (B[0;7m[ Writing... ](B[m[K[1;52H(B[0;7m [82G(B[m[43;34H(B[0;7m[ Wrote 6 lines ](B[m[44;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut       (B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[45;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[?12l[?25h[7;5H[?25l[43d[J[45d[?12l[?25h[45;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ bash do-errors [K.sh NENE*A.txtx[K NR[KENE*B.txt
+[?2004lNENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ../exercise-data/writing
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cat ha[K[K[K[K[K[Kls -F
+[?2004l[0m[01;32mLittleWomen.txt[0m*  [01;32mhaiku.txt[0m*  [34;42mthesis_backup[0m/
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cat haiku.txt
+[?2004lThe Tao that is seen
+Is not the true Tao, until
+You bring fresh toner.
+
+With searching comes loss
+and the presence of absence:
+"My Thesis" not found.
+
+Yesterday it worked
+Today it is not working
+Software is like that.
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep not haiku.txt
+[?2004lIs [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep The haiku.txt
+[?2004l[01;31m[KThe[m[K Tao that is seen
+"My [01;31m[KThe[m[Ksis" not found.
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -w The haiku.txt
+[?2004l[01;31m[KThe[m[K Tao that is seen
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -w "is not" haiku.txt
+[?2004lToday it [01;31m[Kis not[m[K working
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -n "it" haiku.txt
+[?2004l[32m[K5[m[K[36m[K:[m[KW[01;31m[Kit[m[Kh searching comes loss
+[32m[K9[m[K[36m[K:[m[KYesterday [01;31m[Kit[m[K worked
+[32m[K10[m[K[36m[K:[m[KToday [01;31m[Kit[m[K is not working
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -n -w "the" haiku.txt
+[?2004l[32m[K2[m[K[36m[K:[m[KIs not [01;31m[Kthe[m[K true Tao, until
+[32m[K6[m[K[36m[K:[m[Kand [01;31m[Kthe[m[K presence of absence:
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -n -w -i "the" haiku.txt
+[?2004l[32m[K1[m[K[36m[K:[m[K[01;31m[KThe[m[K Tao that is seen
+[32m[K2[m[K[36m[K:[m[KIs not [01;31m[Kthe[m[K true Tao, until
+[32m[K6[m[K[36m[K:[m[Kand [01;31m[Kthe[m[K presence of absence:
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -n -w -v "the" haiku.txt
+[?2004l[32m[K1[m[K[36m[K:[m[KThe Tao that is seen
+[32m[K3[m[K[36m[K:[m[KYou bring fresh toner.
+[32m[K4[m[K[36m[K:[m[K
+[32m[K5[m[K[36m[K:[m[KWith searching comes loss
+[32m[K7[m[K[36m[K:[m[K"My Thesis" not found.
+[32m[K8[m[K[36m[K:[m[K
+[32m[K9[m[K[36m[K:[m[KYesterday it worked
+[32m[K10[m[K[36m[K:[m[KToday it is not working
+[32m[K11[m[K[36m[K:[m[KSoftware is like that.
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -r Yesterday
+[?2004l[35m[Khaiku.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K it worked
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K"[01;31m[KYesterday[m[K, when Aunt was asleep and I was trying to be as still as a
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K at dinner, when an Austrian officer stared at us and then
+[35m[KLittleWomen.txt[m[K[36m[K:[m[K[01;31m[KYesterday[m[K was a quiet day spent in teaching, sewing, and writing in my
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep --help
+[?2004lUsage: grep [OPTION]... PATTERNS [FILE]...
+Search for PATTERNS in each FILE.
+Example: grep -i 'hello world' menu.h main.c
+PATTERNS can contain multiple patterns separated by newlines.
+
+Pattern selection and interpretation:
+  -E, --extended-regexp     PATTERNS are extended regular expressions
+  -F, --fixed-strings       PATTERNS are strings
+  -G, --basic-regexp        PATTERNS are basic regular expressions
+  -P, --perl-regexp         PATTERNS are Perl regular expressions
+  -e, --regexp=PATTERNS     use PATTERNS for matching
+  -f, --file=FILE           take PATTERNS from FILE
+  -i, --ignore-case         ignore case distinctions in patterns and data
+      --no-ignore-case      do not ignore case distinctions (default)
+  -w, --word-regexp         match only whole words
+  -x, --line-regexp         match only whole lines
+  -z, --null-data           a data line ends in 0 byte, not newline
+
+Miscellaneous:
+  -s, --no-messages         suppress error messages
+  -v, --invert-match        select non-matching lines
+  -V, --version             display version information and exit
+      --help                display this help text and exit
+
+Output control:
+  -m, --max-count=NUM       stop after NUM selected lines
+  -b, --byte-offset         print the byte offset with output lines
+  -n, --line-number         print line number with output lines
+      --line-buffered       flush output on every line
+  -H, --with-filename       print file name with output lines
+  -h, --no-filename         suppress the file name prefix on output
+      --label=LABEL         use LABEL as the standard input file name prefix
+  -o, --only-matching       show only nonempty parts of lines that match
+  -q, --quiet, --silent     suppress all normal output
+      --binary-files=TYPE   assume that binary files are TYPE;
+                            TYPE is 'binary', 'text', or 'without-match'
+  -a, --text                equivalent to --binary-files=text
+  -I                        equivalent to --binary-files=without-match
+  -d, --directories=ACTION  how to handle directories;
+                            ACTION is 'read', 'recurse', or 'skip'
+  -D, --devices=ACTION      how to handle devices, FIFOs and sockets;
+                            ACTION is 'read' or 'skip'
+  -r, --recursive           like --directories=recurse
+  -R, --dereference-recursive  likewise, but follow all symlinks
+      --include=GLOB        search only files that match GLOB (a file pattern)
+      --exclude=GLOB        skip files that match GLOB
+      --exclude-from=FILE   skip files that match any file pattern from FILE
+      --exclude-dir=GLOB    skip directories that match GLOB
+  -L, --files-without-match  print only names of FILEs with no selected lines
+  -l, --files-with-matches  print only names of FILEs with selected lines
+  -c, --count               print only a count of selected lines per FILE
+  -T, --initial-tab         make tabs line up (if needed)
+  -Z, --null                print 0 byte after FILE name
+
+Context control:
+  -B, --before-context=NUM  print NUM lines of leading context
+  -A, --after-context=NUM   print NUM lines of trailing context
+  -C, --context=NUM         print NUM lines of output context
+  -NUM                      same as --context=NUM
+      --group-separator=SEP  print SEP on line between matches with context
+      --no-group-separator  do not print separator for matches with context
+      --color[=WHEN],
+      --colour[=WHEN]       use markers to highlight the matching strings;
+                            WHEN is 'always', 'never', or 'auto'
+  -U, --binary              do not strip CR characters at EOL (MSDOS/Windows)
+
+When FILE is '-', read standard input.  With no FILE, read '.' if
+recursive, '-' otherwise.  With fewer than two FILEs, assume -h.
+Exit status is 0 if any line is selected, 1 otherwise;
+if any error occurs and -q is not given, the exit status is 2.
+
+Report bugs to: bug-grep@gnu.org
+GNU grep home page: <https://www.gnu.org/software/grep/>
+General help using GNU software: <https://www.gnu.org/gethelp/>
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep -E "^.o" haiku.txt
+[?2004l[01;31m[KYo[m[Ku bring fresh toner.
+[01;31m[KTo[m[Kday it is not working
+[01;31m[KSo[m[Kftware is like that.
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd ..
+[?2004l[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find .
+[?2004l.
+./alkanes
+./alkanes/alkanes.pdb
+./alkanes/cubane-25
+./alkanes/cubane-30
+./alkanes/cubane-37
+./alkanes/cubane-40
+./alkanes/cubane.pdb
+./alkanes/ethane-25
+./alkanes/ethane-30
+./alkanes/ethane-37
+./alkanes/ethane-40
+./alkanes/ethane.pdb
+./alkanes/lengths.txt
+./alkanes/methane-25
+./alkanes/methane-30
+./alkanes/methane-37
+./alkanes/methane-40
+./alkanes/methane.pdb
+./alkanes/middle.sh
+./alkanes/octane.pdb
+./alkanes/pentane.pdb
+./alkanes/propane.pdb
+./alkanes/redo-figure-3.sh
+./alkanes/script.sh
+./alkanes/sorted-lengths.txt
+./alkanes/sorted.sh
+./alkanes/testfile01.txt
+./alkanes/testfile02.txt
+./alkanes/textfile02.txt
+./animal-counts
+./animal-counts/animals.csv
+./animal-counts/final.txt
+./backup
+./backup/minotaur.dat
+./backup/unicorn.dat
+./creatures
+./creatures/basilisk.dat
+./creatures/minotaur.dat
+./creatures/original-basilisk.dat
+./creatures/original-minotaur.dat
+./creatures/original-unicorn.dat
+./creatures/unicorn.dat
+./longest.sh
+./numbers.txt
+./project
+./project/data
+./project/results
+./writing
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup
+./writing/thesis_backup/quotations.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find . -type d
+[?2004l.
+./alkanes
+./alkanes/cubane-25
+./alkanes/cubane-30
+./alkanes/cubane-37
+./alkanes/cubane-40
+./alkanes/ethane-25
+./alkanes/ethane-30
+./alkanes/ethane-37
+./alkanes/ethane-40
+./alkanes/methane-25
+./alkanes/methane-30
+./alkanes/methane-37
+./alkanes/methane-40
+./animal-counts
+./backup
+./creatures
+./project
+./project/data
+./project/results
+./writing
+./writing/thesis_backup
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find . -type f
+[?2004l./alkanes/alkanes.pdb
+./alkanes/cubane.pdb
+./alkanes/ethane.pdb
+./alkanes/lengths.txt
+./alkanes/methane.pdb
+./alkanes/middle.sh
+./alkanes/octane.pdb
+./alkanes/pentane.pdb
+./alkanes/propane.pdb
+./alkanes/redo-figure-3.sh
+./alkanes/script.sh
+./alkanes/sorted-lengths.txt
+./alkanes/sorted.sh
+./alkanes/testfile01.txt
+./alkanes/testfile02.txt
+./alkanes/textfile02.txt
+./animal-counts/animals.csv
+./animal-counts/final.txt
+./backup/minotaur.dat
+./backup/unicorn.dat
+./creatures/basilisk.dat
+./creatures/minotaur.dat
+./creatures/original-basilisk.dat
+./creatures/original-minotaur.dat
+./creatures/original-unicorn.dat
+./creatures/unicorn.dat
+./longest.sh
+./numbers.txt
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup/quotations.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find . -name *.txt
+[?2004l./numbers.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find . -name "*.txt"
+[?2004l./alkanes/lengths.txt
+./alkanes/sorted-lengths.txt
+./alkanes/testfile01.txt
+./alkanes/testfile02.txt
+./alkanes/textfile02.txt
+./animal-counts/final.txt
+./numbers.txt
+./writing/haiku.txt
+./writing/LittleWomen.txt
+./writing/thesis_backup/quotations.txt
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ wc -l $(find . -name "*.txt")
+[?2004l      7 ./alkanes/lengths.txt
+      7 ./alkanes/sorted-lengths.txt
+      1 ./alkanes/testfile01.txt
+      2 ./alkanes/testfile02.txt
+      1 ./alkanes/textfile02.txt
+      3 ./animal-counts/final.txt
+      5 ./numbers.txt
+     11 ./writing/haiku.txt
+  21022 ./writing/LittleWomen.txt
+      2 ./writing/thesis_backup/quotations.txt
+  21061 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ grep "searching" $(find . -name "*.txt")
+[?2004l[35m[K./writing/haiku.txt[m[K[36m[K:[m[KWith [01;31m[Ksearching[m[K comes loss
+[35m[K./writing/LittleWomen.txt[m[K[36m[K:[m[Ksitting on the top step, affected to be [01;31m[Ksearching[m[K for her book, but was
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ find creatures -namw[Ke "*.dat" | grep -v unicorn
+[?2004lcreatures/basilisk.dat
+creatures/minotaur.dat
+creatures/original-basilisk.dat
+creatures/original-minotaur.dat
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ wc -l $(find . -name "*.dat") | sort -n
+[?2004l  163 ./backup/minotaur.dat
+  163 ./backup/unicorn.dat
+  163 ./creatures/basilisk.dat
+  163 ./creatures/minotaur.dat
+  163 ./creatures/original-basilisk.dat
+  163 ./creatures/original-minotaur.dat
+  163 ./creatures/original-unicorn.dat
+  163 ./creatures/unicorn.dat
+ 1304 total
+[?2004h]0;vidya_y@TIGER03614: /mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[01;32mvidya_y@TIGER03614[00m:[01;34m/mnt/c/users/vidya.yedurumane/Desktop/shell-lesson-data/exercise-data[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-13 20:03:21+05:30 [COMMAND_EXIT_CODE="0"]
