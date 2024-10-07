@@ -1,1 +1,28 @@
+MLE training
+This project is designed to work with nonstandardcode file. Below are instructions on how to set up the development environment and run the script.
+
+Prerequisites
+Ensure you have Conda installed.
+
+Setup Instructions
+
+1. Clone the Repository
+Clone the repository to your local machine using the command:
+git clone https://github.com/Vidya-TA/mle-training
+cd Vidya-TA
+
+2. Set Up Conda Environment
+Create the Conda environment using the provided env.yml file:
+conda env create -f env.yml
+After the environment is created, activate it:
+conda activate mle-dev
+
+3. Run the Code
+Once the environment is activated, you can run the Python script using:
+python nonstandardcode.py
+
+4. Deactivate the Environment
+When you're done working, deactivate the environment with:
+conda deactivate
+
 
