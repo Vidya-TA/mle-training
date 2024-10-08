@@ -18,7 +18,7 @@ After the environment is created, activate it:
 conda activate mle-dev
 
 3. Run the Code
-Once the environment is activated, you can run the Python script using:
+Once the environment is activated, run the Python script using:
 python nonstandardcode.py
 
 4. Deactivate the Environment
