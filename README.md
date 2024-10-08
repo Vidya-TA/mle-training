@@ -19,21 +19,21 @@ python < scriptname.py >
 
 ## Setup Instructions
 
-# 1. Clone the Repository
+### 1. Clone the Repository
 Clone the repository to your local machine using the command:
 git clone https://github.com/Vidya-TA/mle-training
 cd Vidya-TA
 
-# 2. Set Up Conda Environment
+### 2. Set Up Conda Environment
 Create the Conda environment using the provided env.yml file:
 conda env create -f env.yml
 After the environment is created, activate it:
 conda activate mle-dev
 
-# 3. Run the Code
+### 3. Run the Code
 Once the environment is activated, run the Python script using:
 python nonstandardcode.py
 
-# 4. Deactivate the Environment
+### 4. Deactivate the Environment
 When you're done working, deactivate the environment with:
 conda deactivate
