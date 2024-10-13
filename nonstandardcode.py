@@ -7,7 +7,7 @@ import tarfile
 from six.moves import urllib
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
-
+warnings.filterwarnings("ignore", category=RuntimeWarning)
 DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml/master/"
 HOUSING_PATH = os.path.join("datasets", "housing")
 HOUSING_URL = DOWNLOAD_ROOT + "datasets/housing/housing.tgz"
