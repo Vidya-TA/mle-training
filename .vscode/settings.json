@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:/Users/vidya.yedurumane/AppData/Local/Programs/Python/Python312/python.exe", 
+    "editor.formatOnSave": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.sortImports.args": [
+        "--profile",
+        "black"
+    ]
+}
