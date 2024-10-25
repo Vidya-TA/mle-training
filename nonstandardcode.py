@@ -1,9 +1,6 @@
 import os
 import tarfile
 import warnings
-
-# import matplotlib as mpl
-# import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from six.moves import urllib
@@ -33,7 +30,6 @@ def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
     housing_tgz = tarfile.open(tgz_path)
     housing_tgz.extractall(path=housing_path)
     housing_tgz.close()
-
 
 def load_housing_data(housing_path=HOUSING_PATH):
     csv_path = os.path.join(housing_path, "housing.csv")
@@ -92,6 +88,8 @@ housing["bedrooms_per_room"] = (
 housing["population_per_household"] = (
     housing["population"] / housing["households"]
 )
+housing["bedrooms_per_room"] = housing["total_bedrooms"] / housing["total_rooms"]
+housing["population_per_household"] = housing["population"] / housing["households"]
 housing = strat_train_set.drop(
     "median_house_value", axis=1
 )  # drop labels for training set
@@ -107,6 +105,8 @@ housing_tr = pd.DataFrame(X, columns=housing_num.columns, index=housing.index)
 housing_tr["rooms_per_household"] = (
     housing_tr["total_rooms"] / housing_tr["households"]
 )
+housing_tr = pd.DataFrame(X, columns=housing_num.columns, index=housing.index)
+housing_tr["rooms_per_household"] = housing_tr["total_rooms"] / housing_tr["households"]
 housing_tr["bedrooms_per_room"] = (
     housing_tr["total_bedrooms"] / housing_tr["total_rooms"]
 )
@@ -120,11 +120,17 @@ housing_prepared = (
 lin_reg = LinearRegression()
 lin_reg.fit(housing_prepared, housing_labels)
 
+housing_cat = housing[["ocean_proximity"]]
+housing_prepared = housing_tr.join(pd.get_dummies(housing_cat, drop_first=True))
+
+
+lin_reg = LinearRegression()
+lin_reg.fit(housing_prepared, housing_labels)
+
 housing_predictions = lin_reg.predict(housing_prepared)
 lin_mse = mean_squared_error(housing_labels, housing_predictions)
 lin_rmse = np.sqrt(lin_mse)
 lin_rmse
-
 
 lin_mae = mean_absolute_error(housing_labels, housing_predictions)
 lin_mae
@@ -207,6 +213,9 @@ X_test_cat = X_test[["ocean_proximity"]]
 X_test_prepared = (
      X_test_prepared.join(pd.get_dummies(X_test_cat, drop_first=True))
 )
+X_test_cat = X_test[["ocean_proximity"]]
+X_test_prepared = X_test_prepared.join(pd.get_dummies(X_test_cat, drop_first=True))
+
 final_predictions = final_model.predict(X_test_prepared)
 final_mse = (
     mean_squared_error(y_test, final_predictions)
