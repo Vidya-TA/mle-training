@@ -28,6 +28,8 @@ Clone the repository to your local machine using the command:
 #### cd mle-training
 
 
+#### cd mle-training
+
 ### 2. Set Up Conda Environment
 Create the Conda environment using the provided env.yml file:
 
