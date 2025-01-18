@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mle-training/mlruns/0/f406a02c031b42e3b8c004fae5f47b6e/artifacts
+end_time: 1737190167007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f406a02c031b42e3b8c004fae5f47b6e
+run_name: Fetch_Housing_Data
+run_uuid: f406a02c031b42e3b8c004fae5f47b6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737190166029
+status: 3
+tags: []
+user_id: vidya.yedurumane
