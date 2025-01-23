@@ -24,9 +24,7 @@ Clone the repository to your local machine using the command:
 
 #### git clone https://github.com/Vidya-TA/mle-training
 
-
-#### cd mle-training
-
+#### cd Vidya-TA
 
 #### cd mle-training
 
