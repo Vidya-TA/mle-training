@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mle-training/mlruns/0/d3025e38197548dd863607ff9a8fd0b7/artifacts
+end_time: 1737190812679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3025e38197548dd863607ff9a8fd0b7
+run_name: Evaluate_Model
+run_uuid: d3025e38197548dd863607ff9a8fd0b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737190812043
+status: 3
+tags: []
+user_id: vidya.yedurumane

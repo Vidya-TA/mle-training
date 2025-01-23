@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mle-training/mlruns/0/ebe6fcbf2ac44d51a7e94ffd5960882e/artifacts
+end_time: 1737190812706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe6fcbf2ac44d51a7e94ffd5960882e
+run_name: Housing_ML_Pipeline
+run_uuid: ebe6fcbf2ac44d51a7e94ffd5960882e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737190165920
+status: 3
+tags: []
+user_id: vidya.yedurumane
