@@ -24,8 +24,6 @@ Clone the repository to your local machine using the command:
 
 #### git clone https://github.com/Vidya-TA/mle-training
 
-#### cd Vidya-TA
-
 #### cd mle-training
 
 ### 2. Set Up Conda Environment
