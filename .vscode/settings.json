@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:/Users/vidya.yedurumane/AppData/Local/Programs/Python/Python312/python.exe", 
+    "python.pythonPath": "C:/Users/vidya.yedurumane/AppData/Local/Programs/Python/Python312/python.exe", // Set this to the correct Python interpreter path
     "editor.formatOnSave": true,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
